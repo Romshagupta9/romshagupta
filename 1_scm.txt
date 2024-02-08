@@ -1,0 +1,15 @@
+
+OPERATING SYSTEM(OS)
+
+
+xyz--name list
+cd is uesd to change the directory.
+i.e. Desktop $cd xyz
+     xyz$pwd
+   #this will show the current location.
+     ls #list command 
+#to go back to the parent directory use
+#remove the file or folder
+     shift+delete to permanently remove file
+     rm --remove to remove the file
+      
